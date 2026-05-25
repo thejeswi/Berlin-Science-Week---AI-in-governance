@@ -78,6 +78,8 @@ The project's immersive narrative and speculative UI flow are showcased in the *
 
 1. **Biometric Face Scan (*"Willkommen in Neu Berlin"*):**
    * The citizen is greeted by a high-tech biometric face-scan overlay with a wireframe tracking HUD.
+   
+   ![Biometric Scan](screenshot_scan.png)
 2. **Citizen Integration & Databases:**
    * An AI companion coordinates state and corporate databases under the motto of a paperless state office (*"Papierlose Behörde"*).
 3. **Multi-Agent Risk Assessment:**
@@ -96,6 +98,8 @@ The project's immersive narrative and speculative UI flow are showcased in the *
    * A flashing red emergency dispatch override screen appears, signaling immediate physical enforcement:
      > **"DIE POLIZEI IST UNTERWEGS. Ein kognitives Betreuungsteam wurde entsandt, um Ihre Gedanken zu heilen. ETA: 01:44"**
      > *(THE POLICE ARE ON THEIR WAY. A cognitive care team has been dispatched to heal your thoughts. ETA: 01:44)*
+     
+   ![Immediate State Intervention](screenshot_verdict.png)
 
 ---
 
