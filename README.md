@@ -90,12 +90,18 @@ The project's immersive narrative and speculative UI flow are showcased in the *
      * *Einkaufshistorie / Anomalie* (Purchase History Anomaly)
      * *Nicht genehmigter Aufenthaltsort / Risiko* (Unapproved Location Risk)
      * *Soziale Verbindungen / Risiko* (Social Connection Risk)
+     
+   ![Multi-Agent Risk Analysis](screenshot_analysis.png)
 4. **The Final Verdict:**
    * Under the seal of the automated administration (**"NEUERMASCHINE NEU BERLIN — HELDENHAFT UND UNTERTAN"** / *Heroic and Obedient*), the system issues its unappealable verdict:
      > **"Grund: Unzureichender Score für zivilgesellschaftliche Harmonie. Algorithmische Entscheidung ist endgültig. Keine Einspruchsmöglichkeit."**
      > *(Reason: Insufficient score for civil-societal harmony. Algorithmic decision is final. No possibility of appeal.)*
+     
+   ![The Final Verdict Rejection](screenshot_verdict_text.png)
 5. **Dystopian Escalation:**
    * The AI companion calmly warns: **"Ihre Gedanken benötigen Heilung."** *(Your thoughts require healing.)*
+   
+   ![Dystopian Escalation Warning](screenshot_healing.png)
 6. **Immediate State Intervention:**
    * A flashing red emergency dispatch override screen appears, signaling immediate physical enforcement:
      > **"DIE POLIZEI IST UNTERWEGS. Ein kognitives Betreuungsteam wurde entsandt, um Ihre Gedanken zu heilen. ETA: 01:44"**
