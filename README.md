@@ -72,6 +72,33 @@ This installation serves as a physical, narrative representation of complex comp
 
 ---
 
+## 📺 The "Neu Berlin" Interactive Scenario
+
+The project's immersive narrative and speculative UI flow are showcased in the **"Neu Berlin"** video simulation mockup:
+
+1. **Biometric Face Scan (*"Willkommen in Neu Berlin"*):**
+   * The citizen is greeted by a high-tech biometric face-scan overlay with a wireframe tracking HUD.
+2. **Citizen Integration & Databases:**
+   * An AI companion coordinates state and corporate databases under the motto of a paperless state office (*"Papierlose Behörde"*).
+3. **Multi-Agent Risk Assessment:**
+   * **Öffentliche Aufzeichnungen (Public Records):** The system maps and analyzes the citizen's real-time social connection network.
+   * **Corpo-AI Daten-Feed (Corporate Feed):** Correlates and flags automatic anomalies and risk profiles, including:
+     * *Einkaufshistorie / Anomalie* (Purchase History Anomaly)
+     * *Nicht genehmigter Aufenthaltsort / Risiko* (Unapproved Location Risk)
+     * *Soziale Verbindungen / Risiko* (Social Connection Risk)
+4. **The Final Verdict:**
+   * Under the seal of the automated administration (**"NEUERMASCHINE NEU BERLIN — HELDENHAFT UND UNTERTAN"** / *Heroic and Obedient*), the system issues its unappealable verdict:
+     > **"Grund: Unzureichender Score für zivilgesellschaftliche Harmonie. Algorithmische Entscheidung ist endgültig. Keine Einspruchsmöglichkeit."**
+     > *(Reason: Insufficient score for civil-societal harmony. Algorithmic decision is final. No possibility of appeal.)*
+5. **Dystopian Escalation:**
+   * The AI companion calmly warns: **"Ihre Gedanken benötigen Heilung."** *(Your thoughts require healing.)*
+6. **Immediate State Intervention:**
+   * A flashing red emergency dispatch override screen appears, signaling immediate physical enforcement:
+     > **"DIE POLIZEI IST UNTERWEGS. Ein kognitives Betreuungsteam wurde entsandt, um Ihre Gedanken zu heilen. ETA: 01:44"**
+     > *(THE POLICE ARE ON THEIR WAY. A cognitive care team has been dispatched to heal your thoughts. ETA: 01:44)*
+
+---
+
 ## 💻 Technical Implementation
 
 This repository hosts the software and hardware blueprints for the installation:
