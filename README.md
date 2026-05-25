@@ -82,6 +82,8 @@ The project's immersive narrative and speculative UI flow are showcased in the *
    ![Biometric Scan](screenshot_scan.png)
 2. **Citizen Integration & Databases:**
    * An AI companion coordinates state and corporate databases under the motto of a paperless state office (*"Papierlose Behörde"*).
+   
+   ![Citizen Integration & Database Mapping](screenshot_connected.png)
 3. **Multi-Agent Risk Assessment:**
    * **Öffentliche Aufzeichnungen (Public Records):** The system maps and analyzes the citizen's real-time social connection network.
    * **Corpo-AI Daten-Feed (Corporate Feed):** Correlates and flags automatic anomalies and risk profiles, including:
